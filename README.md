@@ -1,6 +1,7 @@
 ## Adafruit MPR121 capacitive touch breakout PCB
 <a href="http://www.adafruit.com/products/1982"><img src="assets/image.jpg?raw=true" width="500px"><br/>
-<a href="http://www.adafruit.com/products/1982"><img src="assets/4830.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
+<a href="http://www.adafruit.com/products/4830"><img src="assets/4830.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 Add lots of touch sensors to your next microcontroller project with this easy-to-use 12-channel capacitive touch sensor breakout board, starring the MPR121. This chip can handle up to 12 individual touch pads.
