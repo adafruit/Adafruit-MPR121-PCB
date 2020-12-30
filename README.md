@@ -14,6 +14,7 @@ To make using the MPR121 QT Gator as easy as possible, we’ve put the MPR121 on
 
 PCB files for Adafruit MPR121 capacitive touch breakout. The format is EagleCAD schematic and board layout
 - https://www.adafruit.com/product/1982
+- https://www.adafruit.com/product/4830
 
 ### License
 
