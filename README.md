@@ -1,5 +1,5 @@
 ## Adafruit MPR121 capacitive touch breakout PCB
-<a href="http://www.adafruit.com/products/1982"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/1982"><img src="assets/1982.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 <a href="http://www.adafruit.com/products/4830"><img src="assets/4830.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
